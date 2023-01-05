@@ -7,3 +7,4 @@ declare namespace jest {
     ): JestMatchers<T>;
   }
 }
+declare const expect: jest.Expect;
